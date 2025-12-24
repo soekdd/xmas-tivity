@@ -419,7 +419,7 @@ onBeforeUnmount(() => resetTimer())
 <style scoped>
 .app-surface {
   min-height: 100vh;
-  background-color: rgba(255, 255, 255, 0.82);
+  background-color: rgba(255, 255, 255, 0.5);
   backdrop-filter: blur(2px);
 }
 
