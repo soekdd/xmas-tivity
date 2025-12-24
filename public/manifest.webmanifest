@@ -1,0 +1,17 @@
+{
+  "name": "Axtivity",
+  "short_name": "Axtivity",
+  "start_url": "./",
+  "scope": "./",
+  "display": "fullscreen",
+  "background_color": "#f4f6fb",
+  "theme_color": "#2563eb",
+  "icons": [
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
